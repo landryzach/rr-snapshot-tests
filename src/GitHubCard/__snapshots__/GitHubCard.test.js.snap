@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "40rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Mountains.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Mountain Landscape
+      </div>
+      <p
+        className="card-text"
+      >
+        I used a mountain landscape, because I do not have a profile picture on GitHub yet.
+      </p>
+    </div>
+  </div>
+</div>
+`;
